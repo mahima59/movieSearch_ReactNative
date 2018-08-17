@@ -46,4 +46,5 @@ About DB and API:
  query is the search keyword entered
 
  Screenshot of Application:
-  ![alt tag](Screen Shot 2018-08-17 at 5.32.07 PM.png)
+ ![screen shot 2018-08-17 at 5 30 31 pm](https://user-images.githubusercontent.com/26082136/44266281-9cb0a480-a247-11e8-8370-bb439e06528d.png)
+
