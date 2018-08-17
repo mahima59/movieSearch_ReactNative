@@ -46,10 +46,6 @@ About DB and API:
  query is the search keyword entered
 
  Screenshot of Application:
-<<<<<<< HEAD
-  ![alt tag](/Users/mahimakarnwal/Desktop/MovieSearchApp/android/imagesrc/Screen Shot 2018-08-17 at 5.30.31 PM.png)
-=======
-
  ![screen shot 2018-08-17 at 5 30 31 pm](https://user-images.githubusercontent.com/26082136/44266281-9cb0a480-a247-11e8-8370-bb439e06528d.png)
  ![screen shot 2018-08-17 at 5 32 31 pm](https://user-images.githubusercontent.com/26082136/44266332-c79af880-a247-11e8-85a6-51e9a8711e09.png)
 
