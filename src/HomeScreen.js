@@ -45,10 +45,8 @@ export default class HomeScreen extends Component {
        
        const {navigate} = this.props.navigation;
            navigate('ListScreen',{data:movieData})
-           
-           })
-    
-       )
+         })
+    )
        .catch((error) => {
            console.error(error);
          });
