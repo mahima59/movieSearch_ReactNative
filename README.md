@@ -44,3 +44,6 @@ About DB and API:
  The API used is "http://api.themoviedb.org/3+'/search/movie?api_key=3b0357883aabbc1f358973c354d4e896&query=mm"
  key is the api key generated
  query is the search keyword entered
+
+ Screenshot of Application:
+  ![alt tag](Screen Shot 2018-08-17 at 5.32.07 PM.png)
