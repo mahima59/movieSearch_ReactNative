@@ -46,4 +46,4 @@ About DB and API:
  query is the search keyword entered
 
  Screenshot of Application:
-  ![alt tag](Screen Shot 2018-08-17 at 5.32.07 PM.png)
+  ![alt tag](/Users/mahimakarnwal/Desktop/MovieSearchApp/android/imagesrc/Screen Shot 2018-08-17 at 5.30.31 PM.png)
